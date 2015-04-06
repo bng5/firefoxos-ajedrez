@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "name": "Ajedrez",
+  "description": "",
+  "icons": {
+    "60": "/images/icon-60.png",
+    "128": "/images/icon-128.png"
+  },
+  "developer": {
+    "name": "Pablo Bangueses",
+    "url": "http://bng5.net/"
+  },
+  "launch_path": "/index.html",
+  "default_locale": "es",
+  "permissions": {
+    "device-storage:sdcard": {
+      "description" : "Partidas guardadas.",
+      "access": "readcreate"
+    }
+  }
+}
