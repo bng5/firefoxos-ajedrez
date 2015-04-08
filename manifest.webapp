@@ -12,6 +12,12 @@
   },
   "launch_path": "/index.html",
   "default_locale": "es",
+  "locales": {
+    "en": {
+      "name" : "Chess",
+      "description" : ""
+    }
+  },
   "permissions": {
     "device-storage:sdcard": {
       "description" : "Partidas guardadas.",
